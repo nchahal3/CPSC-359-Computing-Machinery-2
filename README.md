@@ -1,5 +1,6 @@
 # CPSC-359-Computing-Machinery-2
 All the assignments for cpsc 359 computing machinery 2
+
 Assignment 1 - Logism - 20/20
 Assignment 2 - Logism - 20/20
 Assignment 3 - Python Raspberry Pi - 19/20
